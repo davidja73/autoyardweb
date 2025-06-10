@@ -1,2 +1,0 @@
-# autoyardweb
-Webside for Autoyard
